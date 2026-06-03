@@ -165,7 +165,7 @@ const HeroSlider = () => {
                     Book Now →
                   </Link>
                   <a
-                    href="tel:9911760022"
+                    href="tel:9911767022"
                     className="bg-white/15 backdrop-blur-sm border border-white/40 text-white font-semibold px-7 py-3.5 rounded-xl hover:bg-white hover:text-brand-blue transition-all duration-200"
                   >
                     📞 Call Now

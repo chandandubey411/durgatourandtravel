@@ -83,7 +83,7 @@ const Navbar = () => {
               </Link>
             ))}
             <a
-              href="tel:9911760022"
+              href="tel:9911767022"
               className="bg-brand-orange text-white text-sm font-semibold px-4 py-2 rounded-lg hover:bg-orange-600 transition-colors text-center"
             >
               Call Now

@@ -123,13 +123,13 @@ const DestinationDetail = () => {
                     Book Now →
                   </Link>
                   <a
-                    href="tel:9911760022"
+                    href="tel:9911767022"
                     className="border-2 border-brand-blue text-brand-blue font-semibold py-3 rounded-xl hover:bg-brand-blue hover:text-white transition-colors text-center"
                   >
                     📞 Call Us
                   </a>
                   <a
-                    href="https://wa.me/919911760022"
+                    href="https://wa.me/919911767022"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="bg-green-500 text-white font-semibold py-3 rounded-xl hover:bg-green-600 transition-colors text-center"

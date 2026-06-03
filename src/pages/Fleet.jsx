@@ -103,13 +103,13 @@ const Fleet = () => (
         </p>
         <div className="flex flex-wrap gap-4 justify-center">
           <a
-            href="tel:9911760022"
+            href="tel:9911767022"
             className="bg-brand-orange text-white font-semibold px-7 py-3 rounded-xl hover:bg-orange-500 transition-colors"
           >
             📞 Call Now
           </a>
           <a
-            href="https://wa.me/919911760022"
+            href="https://wa.me/919911767022"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-green-500 text-white font-semibold px-7 py-3 rounded-xl hover:bg-green-600 transition-colors"

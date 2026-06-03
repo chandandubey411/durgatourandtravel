@@ -94,7 +94,7 @@ const ContactForm = () => {
       {status === "error" && (
         <p className="text-red-500 text-sm">
           Something went wrong. Please try again or{" "}
-          <a href="https://wa.me/919911760022" className="underline text-green-600">
+          <a href="https://wa.me/919911767022" className="underline text-green-600">
             WhatsApp us
           </a>
           .
@@ -148,8 +148,8 @@ const Contact = () => {
                 </div>
                 <div className="flex gap-3 items-center">
                   <span className="text-xl">📞</span>
-                  <a href="tel:9911760022" className="text-brand-blue font-semibold hover:underline">
-                    9911760022
+                  <a href="tel:9911767022" className="text-brand-blue font-semibold hover:underline">
+                    9911767022
                   </a>
                 </div>
                 <div className="flex gap-3 items-center">
@@ -163,7 +163,7 @@ const Contact = () => {
                 </div>
               </div>
               <a
-                href="https://wa.me/919911760022"
+                href="https://wa.me/919911767022"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-green-500 hover:bg-green-600 text-white font-semibold px-6 py-3 rounded-xl transition-colors w-fit"

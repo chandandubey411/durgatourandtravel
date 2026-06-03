@@ -29,10 +29,10 @@ const Footer = () => {
               Ghaziabad, Uttar Pradesh 201014
             </p>
             <a
-              href="tel:9911760022"
+              href="tel:9911767022"
               className="text-brand-orange font-semibold hover:underline text-sm"
             >
-              📞 9911760022
+              📞 9911767022
             </a>
             <a
               href="mailto:ravindertiwari57791@gmail.com"
@@ -66,7 +66,7 @@ const Footer = () => {
               Have a question or need to book a trip? Reach us instantly on WhatsApp.
             </p>
             <a
-              href="https://wa.me/919911760022"
+              href="https://wa.me/919911767022"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-green-500 hover:bg-green-600 text-white font-semibold px-5 py-2.5 rounded-xl transition-colors text-sm w-fit"
