@@ -12,7 +12,7 @@ export const fleet = [
   },
   {
     id: 2,
-    name: "Swift Dzire",
+    name: "Innova",
     type: "Sedan",
     image: "/car1.jpeg",
     price: 16,
@@ -23,7 +23,7 @@ export const fleet = [
   },
   {
     id: 3,
-    name: "Honda Amaze",
+    name: "Brezza",
     type: "Sedan",
     image: "/car2.jpeg",
     price: 17,
@@ -45,8 +45,8 @@ export const fleet = [
   },
   {
     id: 5,
-    name: "Tempo Traveller",
-    type: "Tempo Traveller",
+    name: "Innova Crysta",
+    type: "SUV",
     image: "/car3.jpeg",
     price: 30,
     seats: 12,
